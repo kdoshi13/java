@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class SmallestNumberExample1 {
+public class smallof3no{
 
   public static void main(String[] args) {
     int a, b, c, smallest, temp;
